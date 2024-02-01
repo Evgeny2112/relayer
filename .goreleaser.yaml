@@ -22,4 +22,4 @@ checksum:
 
 release:
   prerelease: auto
-  draft: true
+  draft: false
